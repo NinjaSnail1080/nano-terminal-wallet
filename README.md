@@ -42,7 +42,7 @@ If you're absolutely dying to shower me in riches for my monumental contribution
 
 `nano_11qeep4maf1ttuj6f6j8ya81tbp4jr3eokji9a5ca753ay1ewzfwgbgb9xjn`
 
-![nano_11qeep4maf1ttuj6f6j8ya81tbp4jr3eokji9a5ca753ay1ewzfwgbgb9xjn](https://github.com/NinjaSnail1080/nano-terminal-wallet/blob/main/qr.png?raw=true)
+<img src="https://github.com/NinjaSnail1080/nano-terminal-wallet/blob/main/qr.png?raw=true" width="300" height="300"/>
 
 ---
 
