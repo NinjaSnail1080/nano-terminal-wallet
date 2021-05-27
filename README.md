@@ -30,8 +30,8 @@ You can now send and receive Nano in the terminal. Here's a short list of this w
 
 - Automatically broadcasts receive blocks when Nano is sent to your address
 - Uses a 3rd-party server to communicate with the Nano network. A list can be found in `api_servers.txt`
-- Solves the proof-of-work client-side only if it can't be solved on the server
-- Pretty decent UI given that it's literally just runs in the terminal (or "command prompt" if you're uncool)
+- Solves the proof-of-work client-side only if it can't be solved by the server for some reason
+- Pretty decent UI given that it literally just runs in the terminal (or "command prompt" if you're uncool)
 - Uses \*´¯\`\*.¸¸.\*´¯\`\*   🎀  𝓂𝓊𝓁𝓉𝒾𝓅𝓇♡𝒸𝑒𝓈𝓈𝒾𝓃𝑔  🎀   \*\`¯´\*.¸¸.\*\`¯´\*
 
 Why use Nault or Natrium when you got the
