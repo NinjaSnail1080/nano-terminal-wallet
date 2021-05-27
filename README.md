@@ -34,7 +34,7 @@ You can now send and receive Nano in the terminal. Here's a short list of this w
 - Pretty decent UI given that it literally just runs in the terminal (or "command prompt" if you're uncool)
 - Uses \*´¯\`\*.¸¸.\*´¯\`\*   🎀  𝓂𝓊𝓁𝓉𝒾𝓅𝓇♡𝒸𝑒𝓈𝓈𝒾𝓃𝑔  🎀   \*\`¯´\*.¸¸.\*\`¯´\*
 
-Why use Nault or Natrium when you got the ¸„.-•~¹°”ˆ˜¨ Nαɳσ Tҽɾɱιɳαʅ Wαʅʅҽƚ ¨˜ˆ”°¹~•-.„¸?
+Why use Nault or Natrium when you got the ¸„.-•\~¹°”ˆ˜¨ Nαɳσ Tҽɾɱιɳαʅ Wαʅʅҽƚ ¨˜ˆ”°¹\~•-.„¸?
 
 ---
 
