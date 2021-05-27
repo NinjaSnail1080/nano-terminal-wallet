@@ -1,0 +1,3 @@
+nanolib
+requests
+websockets
