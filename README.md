@@ -34,9 +34,15 @@ You can now send and receive Nano in the terminal. Here's a short list of this w
 - Pretty decent UI given that it literally just runs in the terminal (or "command prompt" if you're uncool)
 - Uses \*´¯\`\*.¸¸.\*´¯\`\*   🎀  𝓂𝓊𝓁𝓉𝒾𝓅𝓇♡𝒸𝑒𝓈𝓈𝒾𝓃𝑔  🎀   \*\`¯´\*.¸¸.\*\`¯´\*
 
-Why use Nault or Natrium when you got the
+Why use Nault or Natrium when you got the ¸„.-•~¹°”ˆ˜¨ Nαɳσ Tҽɾɱιɳαʅ Wαʅʅҽƚ ¨˜ˆ”°¹~•-.„¸?
 
-¸,ø¤º°\`°º¤ø,¸¸,ø¤º° ℕａภⓄ ŤєＲ𝓶เⓃαⓁ 𝐰Ａℓ𝐋€ｔ °º¤ø,¸¸,ø¤º°\`°º¤ø,¸ ?
+---
+
+If you're absolutely dying to shower me in riches for my monumental contribution to the Nano community, you can send tips here:
+
+`nano_11qeep4maf1ttuj6f6j8ya81tbp4jr3eokji9a5ca753ay1ewzfwgbgb9xjn`
+
+![nano_11qeep4maf1ttuj6f6j8ya81tbp4jr3eokji9a5ca753ay1ewzfwgbgb9xjn](https://github.com/NinjaSnail1080/nano-terminal-wallet/blob/main/qr.png?raw=true)
 
 ---
 
